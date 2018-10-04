@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Розклад</string>
+    <string name="nameOfInstitute">Назва інституту</string>
+    <string name="nameOfGroup">Група</string>
+    <string name="submitButtonText">Підтвердити</string>
+    <string-array name="inst_names_arr">
+        <item>ІКТА</item>
+        <item>ІАРХ</item>
+        <item>ІНЕМ</item>
+        <item>ІБІД</item>
+        <item>ІТРЕ</item>
+    </string-array>
+    <string-array name="group_names_arr">
+        <item>ЕЛ-21</item>
+        <item>ЕЛ-31</item>
+    </string-array>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">ПН</string>
+    <string name="tab_text_2">ВТ</string>
+    <string name="tab_text_3">СР</string>
+    <string name="tab_text_4">ЧТ</string>
+    <string name="tab_text_5">ПТ</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
