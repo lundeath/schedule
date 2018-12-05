@@ -20,10 +20,11 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:layout_weight="1"
-            android:background="?attr/colorPrimary"
+            android:background="@color/colorPrimary"
             app:layout_scrollFlags="scroll|enterAlways"
             app:popupTheme="@style/RtlOverlay.DialogWindowTitle.AppCompat"
-            app:title="@string/app_name">
+            app:title="@string/title_activity_tabs"
+            app:titleTextColor="@color/colorPrimaryDark">
 
         </android.support.v7.widget.Toolbar>
 

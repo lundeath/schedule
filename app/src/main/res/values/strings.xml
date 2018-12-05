@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Розклад</string>
-    <string name="nameOfInstitute">Назва інституту</string>
+    <string name="nameOfInstitute">Інститут</string>
     <string name="nameOfGroup">Група</string>
     <string name="submitButtonText">Підтвердити</string>
     <string-array name="inst_names_arr">
@@ -14,7 +14,7 @@
         <item>ЕЛ-21</item>
         <item>ЕЛ-31</item>
     </string-array>
-    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="title_activity_tabs">Розклад занять</string>
     <string name="tab_text_1">ПН</string>
     <string name="tab_text_2">ВТ</string>
     <string name="tab_text_3">СР</string>
